@@ -15,7 +15,7 @@
 
 <br />
 
-<h2>Hi, I'm <a href="https://www.linkedin.com/in/ilyasbakouch/">iLyas Bakouch</a>, a Solutions Architect at <strong><a href="https://aws.amazon.com/">@aws</a></strong> based in Montreal, Canada 🇨🇦.</h2>
+<h2>Hi, I'm <a href="https://www.linkedin.com/in/ilyasbakouch/">iLyas Bakouch</a>, a Solutions Architect at <strong><a href="https://aws.amazon.com/">@aws</a></strong> based in Montreal 🍁, Canada 🇨🇦.</h2>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/q7UpJegIZjsk0/giphy.gif" />
 
@@ -38,6 +38,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="nodejs" width="55" height="55" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="nodejs" width="55" height="55" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="nodejs" width="55" height="55" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="nodejs" width="55" height="55" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="nodejs" width="55" height="55" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="nodejs" width="45" height="45" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 </p>
