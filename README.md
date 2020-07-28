@@ -1,20 +1,3 @@
-
-<br/>
-
-<a href="https://twitter.com/isbkch">
-  <img align="left" alt="Ilyas Bakouch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ilyasbakouch/">
-  <img align="left" alt="iLyas's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/isbkch/">
-  <img align="left" alt="iLyas's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=ilyas.bakouch)
-
-<br />
-
 <h2>Hi, I'm <a href="https://www.linkedin.com/in/ilyasbakouch/">iLyas Bakouch</a>, a Solutions Architect at <strong><a href="https://aws.amazon.com/">@aws</a></strong> based in Montreal 🍁, Canada 🇨🇦.</h2>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/q7UpJegIZjsk0/giphy.gif" />
