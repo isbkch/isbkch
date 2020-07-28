@@ -35,9 +35,9 @@
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="nodejs" width="55" height="55" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="nodejs" width="55" height="55" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="nodejs" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="nodejs" width="55" height="55" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="nodejs" width="55" height="55" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="nodejs" width="45" height="45" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="nodejs" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 </p>
