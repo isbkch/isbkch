@@ -6,7 +6,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
     <li> 👨🏽‍💻 I’m currently working on <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>Containerization</strong> and <strong>Media & Entertainement Services</strong> .... ;</li>
-    <li> 🌱 I’m currently learning .... ;</li>
+    <li> 🌱 I’m currently learning about Iot on the cloud;</li>
     <li> 🤝 I’m looking to collaborate on .... ;</li>
     <li> 💬 Ask me about Highly Available / Highly Scalable architectures and cloud stuff;</li>
     <li> ⚡️ Fun-Fact: .... ;</li>
