@@ -5,6 +5,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
+    <li> <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/YouTube.png" emoji-code="YouTube" width="25" height="25" /> I share my cloud experience and knowledge one video at on my [Youtube channel[(https://youtube.com/iLyasBK)</li>
     <li> 👨🏽‍💻 I’m currently working on <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>Containerization</strong> and <strong>Media & Entertainement Services</strong> .... ;</li>
     <li> 🌱 I’m currently learning about Iot and its applications on the cloud;</li>
     <li> 🤝 I’m looking to collaborate on .... ;</li>
