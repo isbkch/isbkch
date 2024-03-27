@@ -5,7 +5,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-    <li> I share my cloud experience and knowledge one video at on my <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/YouTube.png" emoji-code="YouTube" width="25" height="25" /> <a href="https://youtube.com/iLyasBK">Youtube channel<a></li>
+    <li> I share my cloud experience and knowledge one video at on my <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/YouTube.png" emoji-code="YouTube" width="25" height="25" /> <a href="https://youtube.com/@WinTheCloud">Youtube channel<a></li>
     <li> 👨🏽‍💻 I’m currently working on <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>Containerization</strong> and <strong>Media & Entertainement Services</strong> .... ;</li>
     <li> 🌱 You can find my <a href="https://www.home-assistant.io">Home Assistant</a> configuration in this repo: <a href="https://github.com/isbkch/homeassistant-config">homeassistant-config</a>;</li>
     <li> 🤝 I’m looking to collaborate on Home Automation projects ;</li>
